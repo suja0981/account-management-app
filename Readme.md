@@ -112,3 +112,9 @@ The application uses browser's localStorage for data persistence:
 - Clean and maintainable code structure
 - User feedback for all actions
 - Secure password handling
+
+## Author
+
+**Sujal Wadhankar**
+contact:8379892559
+If you have any questions or suggestions about this project, feel free to reach out!
